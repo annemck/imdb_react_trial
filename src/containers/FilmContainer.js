@@ -50,7 +50,7 @@ class FilmContainer extends React.Component {
   
   render(){
     return(
-      <div>
+      <div id="container">
       <h3>Upcoming Film Releases for UK</h3>
       <hr/>
       <FilmList films={this.state.films}/>

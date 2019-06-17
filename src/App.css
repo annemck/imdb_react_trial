@@ -1,33 +1,24 @@
-.App {
+#container {
   text-align: center;
+  width: 50vw;
+  background-color: lightgrey;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+ul {
+  text-align: left;
+  display: inline-block;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+#calendar {
   color: white;
+  background-color: blue;
+  padding: 5px;
 }
 
-.App-link {
-  color: #61dafb;
+form {
+  margin-top: 10px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+input {
+  margin: 2px;
 }
