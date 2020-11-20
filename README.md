@@ -1,3 +1,10 @@
+## React Practice: IMDB copy
+This was a CodeClan Monday week 14 homework. It was practice at using React with multiple components.
+
+<br>
+<br>
+
+# Default create-react-app Readme:
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
